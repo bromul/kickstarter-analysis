@@ -1,7 +1,7 @@
-## An Analyisis of Kickstarter Campaigns
+# An Analyisis of Kickstarter Campaigns
 This project analyzed Kickstarter data to provide insight into crowdfunding and producing plays.
 
-# Findings
+## Findings
 In this analysis, theatre was shown to be a popular category on Kickstarter. Of the ~900 instances of posted theatre projects on Kickstarter ~500 were successfully funded.
 ![Parent Created Success](Parent Category Outcomes.png)
 
@@ -12,6 +12,6 @@ A large role in the success or failure of US-based plays on Kickstarter was the 
 
 This trend was also true of the amounts *pledged* to successful and failed US plays. The mean amount pledged to successful plays was ~$5,600, while the median amount pledged was lower at ~$3,200. This implies that US play projects with lower goals are more often funded. Of consideration in this aspect is the IQR of pledges to successful projects, which was ~$4,000.
 
-# Conclusions
+## Conclusions
 From this analysis, if Louise wants to increase her chances of successfully funding her play within the US, she should launch her project on Kickstarter in May or June. Further, she should plan to set her goal to $4,000 or less. 
 
