@@ -10,12 +10,14 @@ Our friend Louise created a play and wanted to know the best conditions and ways
 
 ### Analysis of Outcomes Based on Launch Date
 To determine the rates of outcomes based on the date theater projects were funded, we created a pivot table that stratified 'successful', 'failed', and 'canceled' projects by month. 
-Through this, we found that theater projects were most successfully funded during the months of May and June, with 111 and 100 projects funded respectively. The amount of successfully funded theater projects tapers off throughout the rest of year when in December the number of projects that met their funding goals and failed their funding goals are about equal. ![Theater Outcomes by Launch Date](https://github.com/bromul/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+Through this, we found that theater projects were most successfully funded during the months of May and June, with 111 and 100 projects funded respectively. The amount of successfully funded theater projects tapers off throughout the rest of year when in December the number of projects that met their funding goals and failed their funding goals are about equal. 
+![Theater Outcomes by Launch Date](https://github.com/bromul/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 In Louise's case, it would be better to launch her theater project within the months of May or June - and to heavily avoid launching during the winter months. 
 
 ### Analysis of Outcomes Based on Goals
 By binning theater project goal amounts in ~$5,000 increments, we were able to calculate the precentages of projects that were 'successful', 'failed', or 'canceled' by the initial goal. 
-From this, we found that a theater project's set goal seemingly plays a large role in the whether or not it is successfully funded. As the stated goal increases, the chances of successfully funding the project decreases. The only exception to this trend appears to be projects in the range of $40,000 to $49,999, which has a success rate of 62.5%. ![Outcomes Based on Goals](https://github.com/bromul/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+From this, we found that a theater project's set goal seemingly plays a large role in the whether or not it is successfully funded. As the stated goal increases, the chances of successfully funding the project decreases. The only exception to this trend appears to be projects in the range of $40,000 to $49,999, which has a success rate of 62.5%. 
+![Outcomes Based on Goals](https://github.com/bromul/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 However, without having dug deeper into the data and into these projects in particular, I believe it seems likely that this is due the lack of many projects within this range (small n) as well as the possibility that these theater projects were created by established artists or were 'staff picks', and should not be taken as indicative of the whole. 
 
 ### Challenges and Difficulties Encountered
